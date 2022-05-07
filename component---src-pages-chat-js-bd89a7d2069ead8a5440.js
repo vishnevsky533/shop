@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QQwb:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),l=t.n(a),r=t("Bl7J"),u=t("vrFN");e.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,null))}}}]);
-//# sourceMappingURL=component---src-pages-chat-js-bd89a7d2069ead8a5440.js.map
